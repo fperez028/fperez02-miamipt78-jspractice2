@@ -64,7 +64,7 @@ window.onload = function() {
     console.log(firstNames[i]);
   }
 
-  // looping, using for..in
+  // looping, using for..in 
   for (let i in firstNames) {
     console.log(firstNames[i])
   }
